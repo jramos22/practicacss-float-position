@@ -51,3 +51,7 @@
     float: left;
     height: 300px;
 }
+#footer{
+    background-color: red;
+    height: 50px;
+}
