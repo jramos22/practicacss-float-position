@@ -10,3 +10,32 @@
     background-color: red;
     height: 100px;
 }
+#div1{
+    background-color: yellow;
+    height: 500px;
+    width: 250px;
+    float: left;
+}
+#div2{
+    background-color: violet;
+    height: 500px;
+    width: 250px;
+    float: left;
+}
+#div3{
+    background-color: lightblue;
+    height: 500px;
+    width: 250px;
+    float: left;
+}
+#div4{
+    background-color: green;
+    height: 500px;
+    width: 250px;
+    float: left;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
