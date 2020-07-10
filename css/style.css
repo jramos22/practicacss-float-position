@@ -39,3 +39,15 @@
     clear: both;
     display: table;
 }
+#inferior1{
+    background-color: darkcyan;
+    width: 500px;
+    float: left;
+    height: 300px;
+}
+#inferior2{
+    background-color: black;
+    width: 500px;
+    float: left;
+    height: 300px;
+}
